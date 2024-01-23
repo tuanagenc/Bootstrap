@@ -63,19 +63,20 @@ body {
 .services .card-body i{
     font-size: 50px;
 }
+.team .card-body i{
+    font-style: 20px;
+}
+.portfolio .card{
+    box-shadow: 15px 15px 40px rgba(0, 0, 0, 0.15);
+}
+.team .card{
+    box-shadow: 15px 15px 40px rgba(0, 0, 0, 0.15);
+}
 
 
 
 
-
-
-
-
-
-
-
-
-/* Responsive Css */
+/* === responsive css === */
 
 @media only screen and (min-width: 768px) and (max-width: 991px){
     .carousel-caption{
